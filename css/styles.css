@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+
+}
+p {
+  color: grey
+}
+
+h2 {
+    font-style: oblique;
+}
+
+ul {
+  font-weight: lighter;
+  font-family: fantasy;
+  font-size: 35px;
+  line-height: 2;
+}

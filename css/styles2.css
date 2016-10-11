@@ -1,0 +1,17 @@
+body {
+  color: orange
+}
+
+li {
+  color: grey;
+}
+
+h1{
+  font-family: sans-serif;
+}
+
+h2 {
+  font-style: italic;
+}
+
+img {width: 800px}
